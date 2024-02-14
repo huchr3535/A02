@@ -1,4 +1,5 @@
-## AO2 IS 117
+## AO2 IS 117 by: Chul Huh
+## UCID: ch52
 
 ## How to install Git?
 - you can install Git from their official website which is at https://git-scm.com/downloads.
